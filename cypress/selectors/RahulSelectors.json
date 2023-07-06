@@ -1,0 +1,56 @@
+{
+    "radioBtnList":"#radio-btn-example",
+    "radioBtn1":"[value=radio1]",
+    "radioBtn2":"[value=radio2]",
+    "radioBtn3":"[value=radio3]",
+    "countries":"#autocomplete",
+    "countriesList":"#ui-id-1",
+    "countriesArray":".ui-menu-item-wrapper",
+    "dropdown":"#dropdown-class-example",
+    "checkBoxList":"#checkbox-example > fieldset",
+    "option1":"#checkBoxOption1",
+    "option2":"#checkBoxOption2",
+    "option3":"#checkBoxOption3",
+    "openNewWindow":"#openwindow",
+    "openNewTab":"#opentab",
+    "alertsBox":".pull-right",
+    "alertsName":"#name",
+    "alertBtn":"#alertbtn",
+    "confirmBtn":"#confirmbtn",
+    "rightFieldSet":".right-align",
+    "hideTextBox":"#hide-textbox",
+    "showTextBox":"#show-textbox",
+    "displayedText":"#displayed-text",
+    "webTable":"#product",
+    "column1":".tableFixHead > #product > :nth-child(2) > tr >:nth-child(1)",
+    "column2":".tableFixHead > #product > :nth-child(2) > tr >:nth-child(2)",
+    "column3":".tableFixHead > #product > :nth-child(2) > tr >:nth-child(3)",
+    "column4":".tableFixHead > #product > :nth-child(2) > tr >:nth-child(4)",
+    "mouseOver":".mouse-hover",
+    "mouseOverContent":".mouse-hover-content",
+    "mouseTop":"div.mouse-hover-content > a:nth-child(1)",
+    "mouseReload":"div.mouse-hover-content > a:nth-child(2)",
+    "iframe":"#courses-iframe",
+    "iframeMentorship":"//div[@class='nav-outer clearfix']//li[@class='current']/a",
+    "iframeMentTitle": "(//section[@class='page-title'])[1]",
+    "iframeTestemonials": "//aside[@class='sidebar default-sidebar']",
+    "headerTitle": ".header-text > .col-md-6",
+    "courseList": "h2 a",
+    "courseHeadline": ".headline",
+    "courseTitle": ".course-title",
+    "courseOnePic": ".large-img-rounded",
+    "faqSection": "div.course-block.block.faq.odd-stripe:nth-child(6) :nth-child(1)> h2:nth-child(1)",
+    "getStarted": ".checkout-cta > h2",
+    "copyrightFooter": ".copyright",
+    "courseTwoText": "strong:nth-child(2) span:nth-child(1) > span:nth-child(1)",
+    "courseThreeBundle": "div.course-block.block.bundle_contents.even-stripe:nth-child(5) h2:nth-child(1)",
+    "courseThreeBundleSubtitlesList": ".course-listing-subtitle",
+    "courseThreeBundleElement": "div.row:nth-child(1) :nth-child(2) div.course-listing.bundle"
+    
+
+    
+
+
+
+
+}
