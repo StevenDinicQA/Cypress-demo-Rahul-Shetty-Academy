@@ -3,6 +3,11 @@ Cypress demo Rahul Shetty Academy
 
 This repository is my take on the Rahul Shetty's Academy website and automation practice segment of the same website.
 
+Websites used: https://www.rahulshettyacademy.com/ and https://www.rahulshettyacademy.com/AutomationPractice/
+Cypress version used: 12.7.0
+
+
+
 The project is done in Cypress, with the OOP-like structure. It is consisted of:
   1. Selectors that are in a .json file
   2. Locators where the selectors are put into variables, located in the services
